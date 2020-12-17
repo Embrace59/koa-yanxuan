@@ -1,0 +1,27 @@
+{
+  "name": "koa-yanxuan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Embrace59/koa-yanxuan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Embrace59/koa-yanxuan/issues"
+  },
+  "homepage": "https://github.com/Embrace59/koa-yanxuan#readme",
+  "dependencies": {
+    "knex": "^0.21.13",
+    "koa": "^2.13.0",
+    "koa-router": "^10.0.0",
+    "lodash": "^4.17.20",
+    "mysql": "^2.18.1"
+  }
+}
