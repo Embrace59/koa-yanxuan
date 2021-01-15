@@ -1,3 +1,4 @@
+// ./controller/index.js
 const _ = require('lodash')
 const fs = require('fs')
 const path = require('path')
@@ -23,6 +24,7 @@ const mapDir = d => {
     })
     return tree
 }
+
 // {
 //     address:{
 //         index:{
